@@ -1,4 +1,4 @@
-# vacancies
+# Classification of Software Developer Skills
 [Java developer's group of skills](https://github.com/IritRTF/vacancies/blob/main/Java%20developer's%20group%20of%20skills.csv)
 
 [Specializations of developers](https://github.com/IritRTF/vacancies/blob/main/Specializations%20of%20developers.csv)
